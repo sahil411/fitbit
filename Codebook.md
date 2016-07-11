@@ -1,8 +1,9 @@
 
-THIS CODEBOOK IS FOR THE GETTING AND CLEANING THE DATA COURSE PROJECT. CREATED BY SAHIL JAGDALE.
+# THIS CODEBOOK IS FOR THE GETTING AND CLEANING THE DATA COURSE PROJECT.
+CREATED BY SAHIL JAGDALE.
 
 
-PROCESSING:
+#PROCESSING:
 
 The "run_analysis.R" file performs the given instructions on data and process the number of steps for the final clean data output.
 Some steps performed in this R file are listed below.
@@ -22,7 +23,7 @@ Some steps performed in this R file are listed below.
 7) the output dataset is written to a file "run_output.txt"
 
 
-COLUMNS IN THE OUTPUT FILE:
+#COLUMNS IN THE OUTPUT FILE:
 
 Columns used for output files are listed below.
 
